@@ -1,0 +1,16 @@
+.bloc{
+    display: flex;
+    justify-content: space-evenly;
+    border: 1px solid black ;
+    border-radius: 3px;
+}
+
+.boot{
+  display:flex;
+  flex-direction: column;
+}
+
+.rv-disabled {
+  opacity: 0.65;
+  cursor : not-allowed;
+}
